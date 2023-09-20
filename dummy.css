@@ -1,0 +1,15 @@
+.product {
+    border: 1px solid #e3f2fd;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(21, 131, 204, 0.049);
+    box-shadow: rgba(45, 141, 205, 0.2) 0px 2px 8px 0px;
+}
+
+img {
+    max-width: 40vh;
+    border-radius: 5px;
+    box-shadow: rgba(45, 141, 205, 0.2) 0px 2px 8px 0px;
+    margin-bottom: 10px;
+}
